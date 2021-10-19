@@ -1,1 +1,1 @@
-# solidity-harhat
+# solidity-hardhat
